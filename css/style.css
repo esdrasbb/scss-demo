@@ -1,0 +1,37 @@
+.btn-orange {
+  width: 200px;
+  padding: 10px 0px;
+  background: none;
+  border: 0;
+  border-radius: 10px;
+  display: block;
+  margin: 10px 0;
+  background: orange;
+  color: #FFF;
+}
+
+.btn-green {
+  width: 200px;
+  padding: 10px 0px;
+  background: none;
+  border: 0;
+  border-radius: 10px;
+  display: block;
+  margin: 10px 0;
+  background: green;
+  color: #FFF;
+}
+
+.btn-purple {
+  width: 200px;
+  padding: 10px 0px;
+  background: none;
+  border: 0;
+  border-radius: 10px;
+  display: block;
+  margin: 10px 0;
+  background: purple;
+  color: #FFF;
+}
+
+/*# sourceMappingURL=style.css.map */
